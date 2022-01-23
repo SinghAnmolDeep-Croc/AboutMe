@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Anmol Deep Singh</string>
+    <string name="yellow_start">Yellow Star</string>
+    <string name="bio">-[ ] Proven expertise in Java and Kotlin
+        \n\n
+- [ ] Experienced in using git
+\n\n- [ ] Rxjava
+\n\n- [ ] Dagger
+\n\n- [ ] Familiarity with design patterns like MVVM and Clean Architecture
+\n\n- [ ] Knowledge of Android’s design principles and Material Design Guidelines
+- [ ] Familiarity with CI/CD tools such as App Center
+- [ ] Familiarity with push notifications
+- [ ] Familiarity with Dependency Injection tools like dagger
+        - [ ] Proven expertise in Java and Kotlin
+- [ ] Experienced in using git
+- [ ] Rxjava
+- [ ] Dagger
+- [ ] Familiarity with design patterns like MVVM and Clean Architecture
+- [ ] Knowledge of Android’s design principles and Material Design Guidelines
+- [ ] Familiarity with CI/CD tools such as App Center
+- [ ] Familiarity with push notifications
+- [ ] Familiarity with Dependency Injection tools like dagger
+- [ ] Familiarity with test automation technologies for Android Development including JUnit and Espresso
+- [ ] Familiarity with other mobile frameworks and languages is a plus
+- [ ] Analytics tools like Newrelic, Febric are plus.
+
+Mvvm, mvp, rxjava, retrofit, live data
+
+
+\n\n</string>
+    <string name="hint_name">What\'s your name?</string>
+    <string name="button">DONE</string>
+</resources>
